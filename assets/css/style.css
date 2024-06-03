@@ -486,7 +486,7 @@ a {
   top: 28px;
 }
 
-/* ===============features=============== */
+/* ===============features 1=============== */
 
 .features {
   margin-top: 135px;
@@ -533,4 +533,23 @@ a {
   width: 137px;
   height: 50px;
   background: var(--primary-color);
+}
+
+/* ===============features 2=============== */
+
+.fetures-2nd {
+  margin-top: 70px;
+}
+
+.fetures-2nd .body {
+  flex-direction: row-reverse;
+}
+
+.fetures-2nd .content {
+  width: 49%;
+}
+
+.fetures-2nd .images img {
+  width: 470px;
+  height: 440px;
 }
